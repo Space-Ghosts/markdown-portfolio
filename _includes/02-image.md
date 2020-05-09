@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Ahsoka](http://www.zort.co.uk/photos/album/userimages/2/20160209175127/jedi_rebel_comparison_z70.jpg)
